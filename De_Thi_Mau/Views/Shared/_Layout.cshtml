@@ -10,7 +10,8 @@
 	<!-- Begin Wrap -->
 	<div class="wrap">
 		<!-- Begin Header -->
-		<partial name="BuiMinhAn_Header" />
+		@* <partial name="BuiMinhAn_Header" /> *@
+		@await Component.InvokeAsync("LoaiHang")
 	<!-- End Header -->
 	<!-- Begin Main -->
 	<div class="main">
