@@ -1,9 +1,26 @@
-﻿@{
+﻿@model IEnumerable<De_Thi_Mau.Models.HangHoa>
+@{
     ViewData["Title"] = "Home Page";
     //Layout = "~Views/Shared/_Layout.cshtml";
 }
+<div class="content">
+    <div class="content_top">
+        <div class="heading">
+            <h3>Bùi Minh An</h3>
+        </div>
+        <div class="see">
+            <p><a href="#">See all Products</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
 
-<div id="main-content">
+    <div id="main-product-list">
+        <partial name="_HangHoaListPartial" model="Model"/>
+    </div>
+
+</div>
+
+@* <div id="main-content">
     <!-- Nội dung danh sách sản phẩm sẽ được load vào đây (phục vụ cho Yêu cầu 3 & 4) -->
     <partial name="BuiMinhAn_MainContent" />
-</div>
+</div> *@

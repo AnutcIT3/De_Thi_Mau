@@ -1,3 +1,4 @@
+using AspNetCoreGeneratedDocument;
 using De_Thi_Mau.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -6,9 +7,17 @@ namespace De_Thi_Mau.Controllers
 {
     public class HomeController : Controller
     {
+        public readonly QlhangHoaContext _context;
+        public HomeController (QlhangHoaContext Context)
+        {
+            _context = Context;
+        }
         public IActionResult Index()
         {
-            return View();
+            var hangHoas = _context.HangHoas
+                                   .Where(h => h.Gia >= 100)
+                                   .ToList();
+            return View(hangHoas);
         }
 
         public IActionResult Privacy()
