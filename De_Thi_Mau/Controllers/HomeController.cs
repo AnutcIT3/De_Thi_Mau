@@ -20,6 +20,13 @@ namespace De_Thi_Mau.Controllers
             return View(hangHoas);
         }
 
+        public IActionResult FilterByLoai(int maLoai)
+        {
+            var hangHoas = _context.HangHoas
+                                   .Where(h => h.MaLoai == maLoai && h.Gia >= 100)
+                                   .ToList() ;
+            return PartialView("_HangHoaListPartial",hangHoas);
+        }
         public IActionResult Privacy()
         {
             return View();

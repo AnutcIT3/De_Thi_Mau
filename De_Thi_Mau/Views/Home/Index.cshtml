@@ -19,6 +19,36 @@
     </div>
 
 </div>
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $(".filter-loai").click(function(e) {
+                e.preventDefault();
+
+                // Lấy MaLoai từ thuộc tính data-id của thẻ <a> vừa bấm
+                var maLoai = $(this).data("id");
+
+                // Đổi màu nền đỏ (class active) sang mục menu vừa chọn
+                $(".menu ul li").removeClass("active");
+                $(this).parent("li").addClass("active");
+
+                // Gọi AJAX lên HomeController/FilterByLoai
+                $.ajax({
+                    url: '@Url.Action("FilterByLoai", "Home")',
+                    type: 'GET',
+                    data: { maLoai: maLoai },
+                    success: function(response) {
+                        // Đổ dữ liệu HTML trả về vào vùng main-product-list
+                        $("#main-product-list").html(response);
+                    },
+                    error: function() {
+                        alert("Không thể tải danh sách sản phẩm!");
+                    }
+                });
+            });
+        });
+    </script>
+}
 
 @* <div id="main-content">
     <!-- Nội dung danh sách sản phẩm sẽ được load vào đây (phục vụ cho Yêu cầu 3 & 4) -->

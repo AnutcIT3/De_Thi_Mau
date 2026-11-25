@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\C#Learning\\De_Thi_Mau\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\_hanghoalistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\_hanghoalistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\buiminhan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\buiminhan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\components\\loaihang\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\buiminhan_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\buiminhan_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\_hanghoalistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\_hanghoalistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\views\\shared\\buiminhan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|solutionrelative:de_thi_mau\\views\\shared\\buiminhan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C110BD82-EF14-13DC-F79C-18E0805CC80C}|De_Thi_Mau\\De_Thi_Mau.csproj|e:\\c#learning\\de_thi_mau\\de_thi_mau\\viewcomponents\\loaihangviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +66,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuiMinhAn_MainContent.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
+              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
+              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
+              "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAI0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T07:09:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T06:35:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
+              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
+              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
+              "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T14:41:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "De_Thi_Mau\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T07:08:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "De_Thi_Mau\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "De_Thi_Mau\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T07:59:25.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_HangHoaListPartial.cshtml",
               "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\_HangHoaListPartial.cshtml",
               "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\_HangHoaListPartial.cshtml",
@@ -83,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BuiMinhAn_Header.cshtml",
               "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\BuiMinhAn_Header.cshtml",
               "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\BuiMinhAn_Header.cshtml",
@@ -91,71 +156,7 @@
               "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\BuiMinhAn_Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T06:56:52.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "De_Thi_Mau\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T07:08:15.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "De_Thi_Mau\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "De_Thi_Mau\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T07:59:25.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
-              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
-              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
-              "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\Components\\LoaiHang\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-24T14:41:45.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T06:35:35.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BuiMinhAn_MainContent.cshtml",
-              "DocumentMoniker": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
-              "RelativeDocumentMoniker": "De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
-              "ToolTip": "E:\\C#Learning\\De_Thi_Mau\\De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
-              "RelativeToolTip": "De_Thi_Mau\\Views\\Shared\\BuiMinhAn_MainContent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T07:09:12.562Z"
+              "WhenOpened": "2026-10-31T06:56:52.245Z"
             },
             {
               "$type": "Document",
