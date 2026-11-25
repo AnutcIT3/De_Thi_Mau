@@ -1,0 +1,19 @@
+﻿@model IEnumerable<De_Thi_Mau.Models.LoaiHang>
+
+@{
+    int? selectedId = ViewBag.SelectedId as int?;
+}
+
+<select name="MaLoai" id="MaLoai" style="padding: 3px; min-width: 150px;">
+    @foreach (var item in Model)
+    {
+        if (selectedId == item.MaLoai)
+        {
+            <option value="@item.MaLoai" selected>@item.TenLoai</option>
+        }
+        else
+        {
+            <option value="@item.MaLoai">@item.TenLoai</option>
+        }
+    }
+</select>

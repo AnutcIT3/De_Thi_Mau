@@ -1,6 +1,7 @@
 using AspNetCoreGeneratedDocument;
 using De_Thi_Mau.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Diagnostics;
 
 namespace De_Thi_Mau.Controllers
@@ -26,6 +27,25 @@ namespace De_Thi_Mau.Controllers
                                    .Where(h => h.MaLoai == maLoai && h.Gia >= 100)
                                    .ToList() ;
             return PartialView("_HangHoaListPartial",hangHoas);
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(HangHoa hangHoa)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.HangHoas.Add(hangHoa);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(hangHoa);
         }
         public IActionResult Privacy()
         {
